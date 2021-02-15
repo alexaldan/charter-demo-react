@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+** You need to update with your API KEY at APP.JS on LINE 35!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
